@@ -22,5 +22,6 @@ public class Lab3Controller {
     	String text = textField1.getText();
     	label1.setText(text);
     }
+//new comment
 
 }
